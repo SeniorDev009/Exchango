@@ -1,0 +1,42 @@
+<?php
+
+// sentence.php
+
+return [
+    'welcome' => 'Bienvenue sur Bitcoin',
+    'contactus' => 'Contactez nous',
+    'democoin' => 'DEMOCOIN',
+    'exchange' => 'ÉCHANGE',
+    'login' => 'SIDENTIFIER',
+    'register' => 'REGISTRE',
+    'english' => 'EN',
+    'franch' => 'FR',
+    'Germany' => 'DE',
+    'korean' => 'KO',
+    'chinese' => 'CH',
+'democoincomingsoon' => 'Pièces de démonstration à venir',
+    '1democoinspriceis' => '1 Democoins Price is 0,01USD',
+    'days' => 'Days',
+    'hours' => 'heures',
+    'minutes' => 'Minutes',
+    'seconds' => 'Seconde',
+    'getstarted' => 'Commencer',
+    '4newcoinsrealsed' => '4 nouvelles pièces retournées',
+    'bitcoin' => 'BITCOIN',
+    'coin1' => 'COIN 1',
+    'coin2' => 'COIN 2',
+    'coin3' => 'COIN 3',
+    'coin4' => 'COIN 4',
+    'bitcoin_sen' => 'Le projet et le framework doivent toujours être appelés Bootstrap',
+    'bitcoindiscount' => 'Rabais Bitcoin',
+    'buynow' => 'Acheter maintenant',
+    'choice' => 'Main Your Coin of Choice avec nous',
+    'minenow' => 'Mine Now',
+    'invite' => 'Invitez vos amis à recevoir 100 democoins gratuites',
+    'smallinvite' => 'Le modèle Mobirise 3 est gratuit pour tout le monde, vous pouvez l’utiliser pour vos sites commerciaux et à but non lucratif',
+    'rifer' => 'RIFER LINK NOW',
+    'jordan' => 'JORDAN 4 RETRO BRED',
+    '2019' => '2019(GS)',
+    'usdt' => 'USDT+BTC 59',
+
+];
